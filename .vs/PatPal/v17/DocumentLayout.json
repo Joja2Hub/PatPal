@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erush\\source\\repos\\PatPal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DEE2E1-4A00-408E-8B80-69C1BAB143C5}|PatPal\\PatPal.csproj|c:\\users\\erush\\source\\repos\\patpal\\patpal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8DEE2E1-4A00-408E-8B80-69C1BAB143C5}|PatPal\\PatPal.csproj|solutionrelative:patpal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\erush\\source\\repos\\PatPal\\PatPal\\Form1.cs",
+              "RelativeDocumentMoniker": "PatPal\\Form1.cs",
+              "ToolTip": "C:\\Users\\erush\\source\\repos\\PatPal\\PatPal\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "PatPal\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:24:25.994Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
