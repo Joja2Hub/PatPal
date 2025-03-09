@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PatPal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe56b5a1063435f73ffc5622a129e14120bc6374")]
 [assembly: System.Reflection.AssemblyProductAttribute("PatPal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PatPal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
