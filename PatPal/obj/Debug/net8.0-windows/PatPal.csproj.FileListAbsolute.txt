@@ -1,0 +1,17 @@
+C:\Users\erush\source\repos\PatPal\PatPal\bin\Debug\net8.0-windows\PatPal.exe
+C:\Users\erush\source\repos\PatPal\PatPal\bin\Debug\net8.0-windows\PatPal.deps.json
+C:\Users\erush\source\repos\PatPal\PatPal\bin\Debug\net8.0-windows\PatPal.runtimeconfig.json
+C:\Users\erush\source\repos\PatPal\PatPal\bin\Debug\net8.0-windows\PatPal.dll
+C:\Users\erush\source\repos\PatPal\PatPal\bin\Debug\net8.0-windows\PatPal.pdb
+C:\Users\erush\source\repos\PatPal\PatPal\obj\Debug\net8.0-windows\PatPal.Form1.resources
+C:\Users\erush\source\repos\PatPal\PatPal\obj\Debug\net8.0-windows\PatPal.csproj.GenerateResource.cache
+C:\Users\erush\source\repos\PatPal\PatPal\obj\Debug\net8.0-windows\PatPal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erush\source\repos\PatPal\PatPal\obj\Debug\net8.0-windows\PatPal.AssemblyInfoInputs.cache
+C:\Users\erush\source\repos\PatPal\PatPal\obj\Debug\net8.0-windows\PatPal.AssemblyInfo.cs
+C:\Users\erush\source\repos\PatPal\PatPal\obj\Debug\net8.0-windows\PatPal.csproj.CoreCompileInputs.cache
+C:\Users\erush\source\repos\PatPal\PatPal\obj\Debug\net8.0-windows\PatPal.sourcelink.json
+C:\Users\erush\source\repos\PatPal\PatPal\obj\Debug\net8.0-windows\PatPal.dll
+C:\Users\erush\source\repos\PatPal\PatPal\obj\Debug\net8.0-windows\refint\PatPal.dll
+C:\Users\erush\source\repos\PatPal\PatPal\obj\Debug\net8.0-windows\PatPal.pdb
+C:\Users\erush\source\repos\PatPal\PatPal\obj\Debug\net8.0-windows\PatPal.genruntimeconfig.cache
+C:\Users\erush\source\repos\PatPal\PatPal\obj\Debug\net8.0-windows\ref\PatPal.dll
