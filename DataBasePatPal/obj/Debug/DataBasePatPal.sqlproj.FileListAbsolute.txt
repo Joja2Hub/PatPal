@@ -1,0 +1,6 @@
+C:\Users\erush\source\repos\PatPal\DataBasePatPal\bin\Debug\DataBasePatPal.dacpac
+C:\Users\erush\source\repos\PatPal\DataBasePatPal\bin\Debug\DataBasePatPal.dll
+C:\Users\erush\source\repos\PatPal\DataBasePatPal\bin\Debug\DataBasePatPal.pdb
+C:\Users\erush\source\repos\PatPal\DataBasePatPal\obj\Debug\DataBasePatPal.sqlproj.AssemblyReference.cache
+C:\Users\erush\source\repos\PatPal\DataBasePatPal\obj\Debug\DataBasePatPal.dll
+C:\Users\erush\source\repos\PatPal\DataBasePatPal\obj\Debug\DataBasePatPal.pdb

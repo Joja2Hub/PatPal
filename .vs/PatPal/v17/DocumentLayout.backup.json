@@ -3,8 +3,71 @@
   "WorkspaceRootPath": "C:\\Users\\erush\\source\\repos\\PatPal\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E8DEE2E1-4A00-408E-8B80-69C1BAB143C5}|PatPal\\PatPal.csproj|c:\\users\\erush\\source\\repos\\patpal\\patpal\\patpal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E8DEE2E1-4A00-408E-8B80-69C1BAB143C5}|PatPal\\PatPal.csproj|solutionrelative:patpal\\patpal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\erush\\source\\repos\\PatPal\\DBO\\DBO.sqlproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DBO\\DBO.sqlproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DEE2E1-4A00-408E-8B80-69C1BAB143C5}|PatPal\\PatPal.csproj|c:\\users\\erush\\source\\repos\\patpal\\patpal\\patpal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E8DEE2E1-4A00-408E-8B80-69C1BAB143C5}|PatPal\\PatPal.csproj|solutionrelative:patpal\\patpal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\erush\\source\\repos\\PatPal\\DBO\\DBO.sqlproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DBO\\DBO.sqlproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\erush\\source\\repos\\PatPal\\DBO\\\u0416\u0443\u0440\u043D\u0430\u043B\u044B \u0438\u043C\u043F\u043E\u0440\u0442\u0430 \u0441\u0445\u0435\u043C\\DBO_20250309113516.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DBO\\\u0416\u0443\u0440\u043D\u0430\u043B\u044B \u0438\u043C\u043F\u043E\u0440\u0442\u0430 \u0441\u0445\u0435\u043C\\DBO_20250309113516.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\erush\\source\\repos\\PatPal\\DBO\\Server Objects\\AlwaysOn_health.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DBO\\Server Objects\\AlwaysOn_health.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\erush\\source\\repos\\PatPal\\DBO\\Security\\sa.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DBO\\Security\\sa.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\erush\\source\\repos\\PatPal\\DBO\\Security\\RoleMemberships.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DBO\\Security\\RoleMemberships.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\erush\\source\\repos\\PatPal\\DBO\\Security\\NT SERVICE_SQLWriter.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DBO\\Security\\NT SERVICE_SQLWriter.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\erush\\source\\repos\\PatPal\\DBO\\Security\\DESKTOP-UTLB74F_erush.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DBO\\Security\\DESKTOP-UTLB74F_erush.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\erush\\source\\repos\\PatPal\\PatPalDB\\dbo\\Tables\\CareProcedures.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PatPalDB\\dbo\\Tables\\CareProcedures.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\erush\\source\\repos\\PatPal\\PatPalDB\\\u0416\u0443\u0440\u043D\u0430\u043B\u044B \u0438\u043C\u043F\u043E\u0440\u0442\u0430 \u0441\u0445\u0435\u043C\\PatPalDB_20250309114410.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PatPalDB\\\u0416\u0443\u0440\u043D\u0430\u043B\u044B \u0438\u043C\u043F\u043E\u0440\u0442\u0430 \u0441\u0445\u0435\u043C\\PatPalDB_20250309114410.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\erush\\source\\repos\\PatPal\\PatPalDB\\PatPalDB.sqlproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PatPalDB\\PatPalDB.sqlproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\erush\\source\\repos\\PatPal\\PatPalDB\\dbo\\Tables\\Appointments.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PatPalDB\\dbo\\Tables\\Appointments.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\erush\\source\\repos\\PatPal\\PatPalDB\\PatPalDB.sqlproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PatPalDB\\PatPalDB.sqlproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E8DEE2E1-4A00-408E-8B80-69C1BAB143C5}|PatPal\\PatPal.csproj|c:\\users\\erush\\source\\repos\\patpal\\patpal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8DEE2E1-4A00-408E-8B80-69C1BAB143C5}|PatPal\\PatPal.csproj|solutionrelative:patpal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\erush\\AppData\\Local\\Temp\\fzgus3sh..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8DEE2E1-4A00-408E-8B80-69C1BAB143C5}|PatPal\\PatPal.csproj|c:\\users\\erush\\source\\repos\\patpal\\patpal\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,15 +98,7 @@
       "RelativeMoniker": "D:0:0:{E8DEE2E1-4A00-408E-8B80-69C1BAB143C5}|PatPal\\PatPal.csproj|solutionrelative:patpal\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8DEE2E1-4A00-408E-8B80-69C1BAB143C5}|PatPal\\PatPal.csproj|c:\\users\\erush\\source\\repos\\patpal\\patpal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8DEE2E1-4A00-408E-8B80-69C1BAB143C5}|PatPal\\PatPal.csproj|solutionrelative:patpal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8DEE2E1-4A00-408E-8B80-69C1BAB143C5}|PatPal\\PatPal.csproj|c:\\users\\erush\\source\\repos\\patpal\\patpal\\patpal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E8DEE2E1-4A00-408E-8B80-69C1BAB143C5}|PatPal\\PatPal.csproj|solutionrelative:patpal\\patpal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8DEE2E1-4A00-408E-8B80-69C1BAB143C5}|PatPal\\PatPal.csproj|c:\\users\\erush\\source\\repos\\patpal\\patpal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E8DEE2E1-4A00-408E-8B80-69C1BAB143C5}|PatPal\\PatPal.csproj|C:\\Users\\erush\\source\\repos\\PatPal\\patpal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E8DEE2E1-4A00-408E-8B80-69C1BAB143C5}|PatPal\\PatPal.csproj|solutionrelative:patpal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -54,24 +109,199 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\erush\\source\\repos\\PatPal\\PatPal\\Program.cs",
-              "RelativeDocumentMoniker": "PatPal\\Program.cs",
-              "ToolTip": "C:\\Users\\erush\\source\\repos\\PatPal\\PatPal\\Program.cs",
-              "RelativeToolTip": "PatPal\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T18:42:26.301Z",
+              "Title": "PatPal",
+              "DocumentMoniker": "C:\\Users\\erush\\source\\repos\\PatPal\\PatPal\\PatPal.csproj",
+              "RelativeDocumentMoniker": "PatPal\\PatPal.csproj",
+              "ToolTip": "C:\\Users\\erush\\source\\repos\\PatPal\\PatPal\\PatPal.csproj",
+              "RelativeToolTip": "PatPal\\PatPal.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-11T12:03:06.639Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DBO.sqlproj",
+              "DocumentMoniker": "C:\\Users\\erush\\source\\repos\\PatPal\\DBO\\DBO.sqlproj",
+              "RelativeDocumentMoniker": "DBO\\DBO.sqlproj",
+              "ToolTip": "C:\\Users\\erush\\source\\repos\\PatPal\\DBO\\DBO.sqlproj",
+              "RelativeToolTip": "DBO\\DBO.sqlproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000827|",
+              "WhenOpened": "2025-03-11T12:01:36.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AlwaysOn_health.sql",
+              "DocumentMoniker": "C:\\Users\\erush\\source\\repos\\PatPal\\DBO\\Server Objects\\AlwaysOn_health.sql",
+              "RelativeDocumentMoniker": "DBO\\Server Objects\\AlwaysOn_health.sql",
+              "ToolTip": "C:\\Users\\erush\\source\\repos\\PatPal\\DBO\\Server Objects\\AlwaysOn_health.sql",
+              "RelativeToolTip": "DBO\\Server Objects\\AlwaysOn_health.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-11T12:01:14.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBO_20250309113516.log",
+              "DocumentMoniker": "C:\\Users\\erush\\source\\repos\\PatPal\\DBO\\\u0416\u0443\u0440\u043D\u0430\u043B\u044B \u0438\u043C\u043F\u043E\u0440\u0442\u0430 \u0441\u0445\u0435\u043C\\DBO_20250309113516.log",
+              "RelativeDocumentMoniker": "DBO\\\u0416\u0443\u0440\u043D\u0430\u043B\u044B \u0438\u043C\u043F\u043E\u0440\u0442\u0430 \u0441\u0445\u0435\u043C\\DBO_20250309113516.log",
+              "ToolTip": "C:\\Users\\erush\\source\\repos\\PatPal\\DBO\\\u0416\u0443\u0440\u043D\u0430\u043B\u044B \u0438\u043C\u043F\u043E\u0440\u0442\u0430 \u0441\u0445\u0435\u043C\\DBO_20250309113516.log",
+              "RelativeToolTip": "DBO\\\u0416\u0443\u0440\u043D\u0430\u043B\u044B \u0438\u043C\u043F\u043E\u0440\u0442\u0430 \u0441\u0445\u0435\u043C\\DBO_20250309113516.log",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHgSURBVEhLtZVdTsJAFIWroTyDK3ELJuCbsA1ZhQRFRETkV6yV8AAsgAI\u002BugW3wAr0RUop7Tj3dmagtLXFhJOc3mEynXu\u002BSWmlg4oQcsSGqOFwSKcIzAcY7rFZdeZkWf42DOMsl7v8ZNsEazAYEMuyXF5zr7nXWG3bJqPRiMznc6Kqb1\u002BtdueUbePSMasoSASiN0sW2AJbwrSRMKwBJZNJKZVOJeJx\u002BaPRbHma\u002BDbAqzOMpBPa5DydxiZsSijGKoo30MZjrH8pm81iVRQFKygmxxNs6K9\u002Bv4/nvlqZ1CticBuOl8IGWS4NogsviWmuSe2p7uH2EMAKTQsn2FUmkxUnEKher4dPjH9ymjogva47BNXHWhgBXCRpomnOxB6KRKCqKhJsznoneUD6BSOoPFSjEUwnByJQlFf8l7rTO6ndyalZcm7TNEn5vhJG4CD8h\u002BAikwkn6HZf8F3jSSu8OfNt/yx0sqIEpbtyOAGsmE4nzsQeikTQ7jwTkxKItCyxX2qenBsIirelcAJAmB2KoNlq4/Psl1Z4K/UuQeGmGIGA6n02xbqPgIBuwH4FqN5o4vMMKYOSBhkI8oVrTwfPBwdWxOQYWt7D/P5duT768D7HJhFtU9MBVj5XyF\u002B59jywJOkX7ucXnGOxDX8AAAAASUVORK5CYII=",
+              "WhenOpened": "2025-03-11T12:01:12.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "sa.sql",
+              "DocumentMoniker": "C:\\Users\\erush\\source\\repos\\PatPal\\DBO\\Security\\sa.sql",
+              "RelativeDocumentMoniker": "DBO\\Security\\sa.sql",
+              "ToolTip": "C:\\Users\\erush\\source\\repos\\PatPal\\DBO\\Security\\sa.sql",
+              "RelativeToolTip": "DBO\\Security\\sa.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-11T12:01:10.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoleMemberships.sql",
+              "DocumentMoniker": "C:\\Users\\erush\\source\\repos\\PatPal\\DBO\\Security\\RoleMemberships.sql",
+              "RelativeDocumentMoniker": "DBO\\Security\\RoleMemberships.sql",
+              "ToolTip": "C:\\Users\\erush\\source\\repos\\PatPal\\DBO\\Security\\RoleMemberships.sql",
+              "RelativeToolTip": "DBO\\Security\\RoleMemberships.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-11T12:01:10.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NT SERVICE_SQLWriter.sql",
+              "DocumentMoniker": "C:\\Users\\erush\\source\\repos\\PatPal\\DBO\\Security\\NT SERVICE_SQLWriter.sql",
+              "RelativeDocumentMoniker": "DBO\\Security\\NT SERVICE_SQLWriter.sql",
+              "ToolTip": "C:\\Users\\erush\\source\\repos\\PatPal\\DBO\\Security\\NT SERVICE_SQLWriter.sql",
+              "RelativeToolTip": "DBO\\Security\\NT SERVICE_SQLWriter.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-11T12:01:09.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DESKTOP-UTLB74F_erush.sql",
+              "DocumentMoniker": "C:\\Users\\erush\\source\\repos\\PatPal\\DBO\\Security\\DESKTOP-UTLB74F_erush.sql",
+              "RelativeDocumentMoniker": "DBO\\Security\\DESKTOP-UTLB74F_erush.sql",
+              "ToolTip": "C:\\Users\\erush\\source\\repos\\PatPal\\DBO\\Security\\DESKTOP-UTLB74F_erush.sql",
+              "RelativeToolTip": "DBO\\Security\\DESKTOP-UTLB74F_erush.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-11T12:00:53.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PatPalDB_20250309114410.log",
+              "DocumentMoniker": "C:\\Users\\erush\\source\\repos\\PatPal\\PatPalDB\\\u0416\u0443\u0440\u043D\u0430\u043B\u044B \u0438\u043C\u043F\u043E\u0440\u0442\u0430 \u0441\u0445\u0435\u043C\\PatPalDB_20250309114410.log",
+              "RelativeDocumentMoniker": "PatPalDB\\\u0416\u0443\u0440\u043D\u0430\u043B\u044B \u0438\u043C\u043F\u043E\u0440\u0442\u0430 \u0441\u0445\u0435\u043C\\PatPalDB_20250309114410.log",
+              "ToolTip": "C:\\Users\\erush\\source\\repos\\PatPal\\PatPalDB\\\u0416\u0443\u0440\u043D\u0430\u043B\u044B \u0438\u043C\u043F\u043E\u0440\u0442\u0430 \u0441\u0445\u0435\u043C\\PatPalDB_20250309114410.log",
+              "RelativeToolTip": "PatPalDB\\\u0416\u0443\u0440\u043D\u0430\u043B\u044B \u0438\u043C\u043F\u043E\u0440\u0442\u0430 \u0441\u0445\u0435\u043C\\PatPalDB_20250309114410.log",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHgSURBVEhLtZVdTsJAFIWroTyDK3ELJuCbsA1ZhQRFRETkV6yV8AAsgAI\u002BugW3wAr0RUop7Tj3dmagtLXFhJOc3mEynXu\u002BSWmlg4oQcsSGqOFwSKcIzAcY7rFZdeZkWf42DOMsl7v8ZNsEazAYEMuyXF5zr7nXWG3bJqPRiMznc6Kqb1\u002BtdueUbePSMasoSASiN0sW2AJbwrSRMKwBJZNJKZVOJeJx\u002BaPRbHma\u002BDbAqzOMpBPa5DydxiZsSijGKoo30MZjrH8pm81iVRQFKygmxxNs6K9\u002Bv4/nvlqZ1CticBuOl8IGWS4NogsviWmuSe2p7uH2EMAKTQsn2FUmkxUnEKher4dPjH9ymjogva47BNXHWhgBXCRpomnOxB6KRKCqKhJsznoneUD6BSOoPFSjEUwnByJQlFf8l7rTO6ndyalZcm7TNEn5vhJG4CD8h\u002BAikwkn6HZf8F3jSSu8OfNt/yx0sqIEpbtyOAGsmE4nzsQeikTQ7jwTkxKItCyxX2qenBsIirelcAJAmB2KoNlq4/Psl1Z4K/UuQeGmGIGA6n02xbqPgIBuwH4FqN5o4vMMKYOSBhkI8oVrTwfPBwdWxOQYWt7D/P5duT768D7HJhFtU9MBVj5XyF\u002B59jywJOkX7ucXnGOxDX8AAAAASUVORK5CYII=",
+              "WhenOpened": "2025-03-11T11:59:03.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CareProcedures.sql",
+              "DocumentMoniker": "C:\\Users\\erush\\source\\repos\\PatPal\\PatPalDB\\dbo\\Tables\\CareProcedures.sql",
+              "RelativeDocumentMoniker": "PatPalDB\\dbo\\Tables\\CareProcedures.sql",
+              "ToolTip": "C:\\Users\\erush\\source\\repos\\PatPal\\PatPalDB\\dbo\\Tables\\CareProcedures.sql",
+              "RelativeToolTip": "PatPalDB\\dbo\\Tables\\CareProcedures.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-11T11:58:31.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Appointments.sql",
+              "DocumentMoniker": "C:\\Users\\erush\\source\\repos\\PatPal\\PatPalDB\\dbo\\Tables\\Appointments.sql",
+              "RelativeDocumentMoniker": "PatPalDB\\dbo\\Tables\\Appointments.sql",
+              "ToolTip": "C:\\Users\\erush\\source\\repos\\PatPal\\PatPalDB\\dbo\\Tables\\Appointments.sql",
+              "RelativeToolTip": "PatPalDB\\dbo\\Tables\\Appointments.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-11T11:58:29.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PatPalDB.sqlproj",
+              "DocumentMoniker": "C:\\Users\\erush\\source\\repos\\PatPal\\PatPalDB\\PatPalDB.sqlproj",
+              "RelativeDocumentMoniker": "PatPalDB\\PatPalDB.sqlproj",
+              "ToolTip": "C:\\Users\\erush\\source\\repos\\PatPal\\PatPalDB\\PatPalDB.sqlproj",
+              "RelativeToolTip": "PatPalDB\\PatPalDB.sqlproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000827|",
+              "WhenOpened": "2025-03-11T11:58:18.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PatPalDB.sqlproj.user",
+              "DocumentMoniker": "C:\\Users\\erush\\source\\repos\\PatPal\\PatPalDB\\PatPalDB.sqlproj.user",
+              "RelativeDocumentMoniker": "PatPalDB\\PatPalDB.sqlproj.user",
+              "ToolTip": "C:\\Users\\erush\\source\\repos\\PatPal\\PatPalDB\\PatPalDB.sqlproj.user",
+              "RelativeToolTip": "PatPalDB\\PatPalDB.sqlproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-03-11T11:58:17.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DBO.sqlproj.user",
+              "DocumentMoniker": "C:\\Users\\erush\\source\\repos\\PatPal\\DBO\\DBO.sqlproj.user",
+              "RelativeDocumentMoniker": "DBO\\DBO.sqlproj.user",
+              "ToolTip": "C:\\Users\\erush\\source\\repos\\PatPal\\DBO\\DBO.sqlproj.user",
+              "RelativeToolTip": "DBO\\DBO.sqlproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-03-11T11:58:10.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "fzgus3sh..sql",
+              "DocumentMoniker": "C:\\Users\\erush\\AppData\\Local\\Temp\\fzgus3sh..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\fzgus3sh..sql",
+              "ToolTip": "C:\\Users\\erush\\AppData\\Local\\Temp\\fzgus3sh..sql",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\fzgus3sh..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-11T11:56:56.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erush\\source\\repos\\PatPal\\PatPal\\Program.cs",
+              "RelativeDocumentMoniker": "PatPal\\Program.cs",
+              "ToolTip": "C:\\Users\\erush\\source\\repos\\PatPal\\PatPal\\Program.cs",
+              "RelativeToolTip": "PatPal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T18:42:26.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "DatabaseService.cs",
               "DocumentMoniker": "C:\\Users\\erush\\source\\repos\\PatPal\\PatPal\\Services\\DatabaseService.cs",
               "RelativeDocumentMoniker": "PatPal\\Services\\DatabaseService.cs",
@@ -79,12 +309,11 @@
               "RelativeToolTip": "PatPal\\Services\\DatabaseService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T18:40:46.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T18:40:46.229Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 18,
               "Title": "OwnerView.cs",
               "DocumentMoniker": "C:\\Users\\erush\\source\\repos\\PatPal\\PatPal\\Views\\OwnerView.cs",
               "RelativeDocumentMoniker": "PatPal\\Views\\OwnerView.cs",
@@ -92,12 +321,11 @@
               "RelativeToolTip": "PatPal\\Views\\OwnerView.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T18:40:31.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T18:40:31.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 19,
               "Title": "AnimalView.cs",
               "DocumentMoniker": "C:\\Users\\erush\\source\\repos\\PatPal\\PatPal\\Views\\AnimalView.cs",
               "RelativeDocumentMoniker": "PatPal\\Views\\AnimalView.cs",
@@ -105,12 +333,11 @@
               "RelativeToolTip": "PatPal\\Views\\AnimalView.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T18:40:18.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T18:40:18.517Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 22,
               "Title": "Owner.cs",
               "DocumentMoniker": "C:\\Users\\erush\\source\\repos\\PatPal\\PatPal\\Models\\Owner.cs",
               "RelativeDocumentMoniker": "PatPal\\Models\\Owner.cs",
@@ -118,12 +345,11 @@
               "RelativeToolTip": "PatPal\\Models\\Owner.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T18:39:51.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T18:39:51.171Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 23,
               "Title": "Animal.cs",
               "DocumentMoniker": "C:\\Users\\erush\\source\\repos\\PatPal\\PatPal\\Models\\Animal.cs",
               "RelativeDocumentMoniker": "PatPal\\Models\\Animal.cs",
@@ -131,12 +357,11 @@
               "RelativeToolTip": "PatPal\\Models\\Animal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T18:39:26.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T18:39:26.59Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 20,
               "Title": "OwnerController.cs",
               "DocumentMoniker": "C:\\Users\\erush\\source\\repos\\PatPal\\PatPal\\Contollers\\OwnerController.cs",
               "RelativeDocumentMoniker": "PatPal\\Contollers\\OwnerController.cs",
@@ -144,12 +369,11 @@
               "RelativeToolTip": "PatPal\\Contollers\\OwnerController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T18:39:05.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T18:39:05.712Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 21,
               "Title": "AnimalController.cs",
               "DocumentMoniker": "C:\\Users\\erush\\source\\repos\\PatPal\\PatPal\\Contollers\\AnimalController.cs",
               "RelativeDocumentMoniker": "PatPal\\Contollers\\AnimalController.cs",
@@ -157,54 +381,30 @@
               "RelativeToolTip": "PatPal\\Contollers\\AnimalController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T18:38:48.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T18:38:48.911Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PatPal",
+              "DocumentIndex": 2,
+              "Title": "PatPal.csproj",
               "DocumentMoniker": "C:\\Users\\erush\\source\\repos\\PatPal\\PatPal\\PatPal.csproj",
               "RelativeDocumentMoniker": "PatPal\\PatPal.csproj",
               "ToolTip": "C:\\Users\\erush\\source\\repos\\PatPal\\PatPal\\PatPal.csproj",
               "RelativeToolTip": "PatPal\\PatPal.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-10T18:36:41.526Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2025-03-10T18:36:41.526Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\erush\\source\\repos\\PatPal\\PatPal\\Form1.cs",
-              "RelativeDocumentMoniker": "PatPal\\Form1.cs",
-              "ToolTip": "C:\\Users\\erush\\source\\repos\\PatPal\\PatPal\\Form1.cs",
-              "RelativeToolTip": "PatPal\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T18:36:00.446Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 24,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\erush\\source\\repos\\PatPal\\PatPal\\Form1.cs",
               "RelativeDocumentMoniker": "PatPal\\Form1.cs",
               "ToolTip": "C:\\Users\\erush\\source\\repos\\PatPal\\PatPal\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "PatPal\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T09:24:25.994Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2025-02-13T09:24:25.994Z"
             }
           ]
         }
